@@ -1,0 +1,1 @@
+到https://github.com/facebookresearch/segment-anything中下载权重
